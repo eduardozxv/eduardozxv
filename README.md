@@ -51,8 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-o
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left"
