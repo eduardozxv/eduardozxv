@@ -52,8 +52,8 @@ Atualmente estudo **C++** e **Java**, desenvolvendo projetos práticos para apri
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
-- 📧 E-mail: seuemail@email.com
+- 💼 LinkedIn: www.linkedin.com/in/eduardozxv
+- 📧 E-mail: eduardoneves8767@gmail.com
 
 ---
 
