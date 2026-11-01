@@ -68,31 +68,6 @@ Atualmente, concentro meus estudos em **Java e C++**, aplicando conceitos de Pro
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardozxv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozxv&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardozxv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/eduardozxv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:eduardoneves8767@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Transformando conhecimento em soluções através da tecnologia."</i>
 </p>
