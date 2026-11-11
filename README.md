@@ -1,5 +1,3 @@
-<!-- TROQUE "SEU-USUARIO" pelo seu username do GitHub em todo o arquivo -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eduardo%20Neves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=60" alt="Banner"/>
@@ -118,8 +116,8 @@ public class EduardoNeves {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardozxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs"/>
 
 </div>
 
